@@ -24,5 +24,5 @@
 
 <h2> Contact with me 📝 </h2>
 
-[![](https://img.icons8.com/?size=45&id=13930&format=png)](www.linkedin.com/in/camilofranco-dev) 
+[![](https://img.icons8.com/?size=45&id=13930&format=png)](https://www.linkedin.com/in/camilofranco-dev/) 
 [![](https://img.icons8.com/?size=40&id=P7UIlhbpWzZm&format=png)](mailto:camilo160franco@gmail.com)
